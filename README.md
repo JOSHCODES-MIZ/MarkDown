@@ -10,10 +10,8 @@ Welcome to "Explaining Markdown"! This guide introduces markdown basics and some
 - [2. Basic Formatting](#basic-formatting)
 - [3. Lists](#lists)
 - [4. Links and Images](#links-and-images)
-- [5. Code Blocks](#code-blocks)
-- [6. Tables](#tables)
-- [7. Blockquotes and Horizontal Lines](#blockquotes-and-horizontal-lines)
-- [8. Conclusion](#conclusion)
+- [5. Blockquotes and Horizontal Lines](#blockquotes-and-horizontal-lines)
+- [6. Conclusion](#conclusion)
 
 ---
 
